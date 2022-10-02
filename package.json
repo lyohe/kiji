@@ -1,6 +1,6 @@
 {
   "name": "kiji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zenn に投稿する記事を書く",
   "main": "index.js",
   "scripts": {
