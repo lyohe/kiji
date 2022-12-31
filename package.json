@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/lyohe/kiji#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.128"
+    "zenn-cli": "^0.1.134"
   }
 }
